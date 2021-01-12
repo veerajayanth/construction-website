@@ -6,6 +6,7 @@ $(document).ready(function(){
     $('.adminform').css("animation","fades 1s ease-in-out");
     $(".cross").hide();
   });
+  // sdchjabsjchac
   $('.close').click(function(){
     $(".cross").show();
     if ($(window).width() >450) { 
